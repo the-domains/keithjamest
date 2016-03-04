@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KeithJamesT]]></title>
-        <description><![CDATA[KeithJamesT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[KeithJames]]></title>
+        <description><![CDATA[KeithJames]]></description>
+        <link>https://thegrid.ai/keithjamest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 04:55:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 05:03:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/keithjamest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4d40cd0-a4c3-4a58-bc4a-97af5b6ccc53.jpg">]]></description>
-            <link>undefinedaf8f0de6-91b5-47fd-a168-82b9609b9e5e/index.html</link>
+            <link>https://thegrid.ai/keithjamest/af8f0de6-91b5-47fd-a168-82b9609b9e5e/index.html</link>
             <guid isPermaLink="false">af8f0de6-91b5-47fd-a168-82b9609b9e5e</guid>
-            <pubDate>Fri, 04 Mar 2016 04:53:55 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 05:03:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
