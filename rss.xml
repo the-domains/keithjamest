@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[KeithJames T]]></title>
         <description><![CDATA[KeithJames T]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/keithjamest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 01:38:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 01:44:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/keithjamest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eab4b76-43f9-4c6c-8a81-9005d255fb5f.jpg">]]></description>
-            <link>undefinedd095a84e-296e-400a-a98d-f3294517ab24/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7358ee6a8140f706b2e7ba7f1fd66ad424e874.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/keithjamest/d095a84e-296e-400a-a98d-f3294517ab24/index.html</link>
             <guid isPermaLink="false">d095a84e-296e-400a-a98d-f3294517ab24</guid>
-            <pubDate>Mon, 14 Mar 2016 01:37:30 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 01:44:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
